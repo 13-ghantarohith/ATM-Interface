@@ -38,5 +38,3 @@ public class OnlineExamSystem {
          System.out.println("Thank you for using the Online Exam System!");
     }
 }
-
-        
